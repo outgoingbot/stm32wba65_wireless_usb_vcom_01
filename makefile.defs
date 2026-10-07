@@ -1,0 +1,4 @@
+# Support the existing generated Debug makefiles before CubeIDE refreshes sources.
+# Once CubeIDE discovers the new .c file, it appears in OBJS and is not added twice.
+USER_OBJS += $(filter-out $(patsubst ./%,%,$(OBJS)),Core/Src/wireless_bridge.o)
+-include Core/Src/wireless_bridge.d

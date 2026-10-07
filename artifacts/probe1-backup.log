@@ -1,0 +1,31 @@
+      -------------------------------------------------------------------
+                       STM32CubeProgrammer v2.23.0                  
+      -------------------------------------------------------------------
+
+ST-LINK SN  : 066FFF555278665067144745
+ST-LINK FW  : V2J43M28
+Board       : --
+Voltage     : 3.23V
+SWD freq    : 4000 KHz
+Connect mode: Hot Plug
+Reset mode  : Software reset
+Device ID   : 0x4B0
+Revision ID : Rev Z
+Device name : STM32WBA6
+NVM size    : 2 MBytes
+Device type : MCU
+Device CPU  : Cortex-M33
+BL Version  : 0xD2
+Debug in Low Power mode enabled
+
+
+UPLOADING ...
+  File          : artifacts\before-066FFF555278665067144745.bin
+  Size          : 2097152 Bytes
+  Address:      : 0x8000000
+Read progress:
+�������������������������������������������������� 0%
+�������������������������������������������������� 100%
+
+Data read successfully
+Time elapsed during read operation is: 00:00:13.930

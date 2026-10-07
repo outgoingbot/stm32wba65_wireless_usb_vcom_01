@@ -1,0 +1,10 @@
+PASS: 1 binary bytes each direction
+PASS: 63 binary bytes each direction
+PASS: 64 binary bytes each direction
+PASS: 65 binary bytes each direction
+PASS: 95 binary bytes each direction
+PASS: 96 binary bytes each direction
+PASS: 97 binary bytes each direction
+PASS: 511 binary bytes each direction
+PASS: 512 binary bytes each direction
+PASS: 513 binary bytes each direction

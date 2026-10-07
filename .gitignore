@@ -1,0 +1,9 @@
+Debug/*
+Release/*
+Bootloader/*
+Bootloader_debug/*
+.settings/*
+*.launch
+.~lock.*
+.cproject.old
+*.lck
